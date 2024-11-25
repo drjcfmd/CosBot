@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cosknow",
+  "private_key_id": "0292ccf2035536cffbf333d1f74becc64a30c603",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC8d94GQGviI4ot\nEc4iNuSfM9t5LlF906hzS44kaLXCjzw3MaZaCrvdh2rDO3voCn15R7hH/MMhCya4\nLL9HHobvFqfQOfxJfugZB5rvKkCeoqft1m1S4nds0dOgfqq+AWvvi9SxQfWh6VaR\nlWjUNddEXoSH6d0K39ahXjYHWfAtp+CDR1Cxiciqk4xLCeIJHrpVFnkKgUwwZGDq\n9d21PrgF7rNuQpM5+YjT7KW1BGGsN+YPLQs97YIlGTSpJsJocGGsuEcKoFJeKcac\nkFJJMYa08gEXjx8Fy4EveG9K4QlE7J1DDZWP0G16ZKq4GfK52Quw0JxbrTGj8xNN\nNGmR3IApAgMBAAECggEADhf9JpTH9IrhlP37PyABf/3H5HOgJLOQqeGNLUAW0og1\nUa/Q77QUiSwMofGncgphyHFicKCwY17S/AwdmDcKUmQMc9P4P7NBrkh9L7QmTa6e\ndfjWZ0+37E9zHtIGGOwgixL2+nPzJ1Lclkm444CsushCKytEDEGBqoLR8cIKJdHC\nigMH/3VONoPPeEhasWp7WCa2nQ6MiBrdesNrky4blnuRD44lmTesWeprrpYueejy\n1FQh7XCCfYLEarlFNHWiXRzv7u0AfJb/bDYouZvqL2mjDVCyXA+7HL8sVpoEBxjk\nS+G8ljZ52sm3S9I+7aL6A1n3Fgz2MSNUTRp0+zg0QQKBgQDg27WLSqxn2w4IiKAc\nE0Ilvl7+nZyI39iCiEFaX6hYl3NsnQiRorIrt4S3qhY3HOtOCrhIiBGiWn9jp3ZX\nBBz7cstZSFtctH5Mh3s8090gqWWLj3kwyWKSNdnCwUl3BVpydkWN9KZd2K/CvrxI\niNQ0Ec0o3Rl6YtklZI49aXHwwQKBgQDWkfW11g712sibBNwG3K52YGbaEvzaG4AA\nEh+6e7q6URWeDrDDJNRZt7Ao9stLtHmqycPP8RqUgylqcUmE50uXwkBLVupk7SBY\nxxwm6RvqpciSL295C4hCXSIdIu/tchtHLqSaQpbOMwkPTja+KHu+AIZ+bjEv12h0\npBHlvDABaQKBgQDVhMxncIk2NXSl9dbT0hXF8XgTH2c9MhJOIUStpJgfR/F6+cLh\nSDUX/jQwk3p06ykl+lfzyAG2wWimIKbnCijbPK6MIYFgDqS/1wbXQ/d+xFyAocTa\n5uCLJkeaACDavGKevmBd5Cr2goSj0KrJ1eRrbVv7qbg/1w2LzGilODPSAQKBgQCv\nsb6PUSLY33fJr3X2zHayiYdOY6PVeBUcebqvOScR7tkTnhXRBHQ4rnc5Y7PdXn8N\ngL6so1DPcILWHMNFZxr3veBlkFrHn38QEqGTnub0ASG1yc+uPuoo5RfM4dGyDPAX\nHjM7+PCBETsG5FVg6cdBMi7ukY4HDYwDjmD1S13HmQKBgQDK9Yjoxi2r+1XH0muE\n94UZ+E4zWToy5vkumemC58kGn3oIRRWKN7h7A2p21rVXn0oUuflNob1zSGnxqCwn\nUWAdCqt5gcytQ0dwlQA06sCD7ednMGTzxPcigc+3kQ03eaLHFi3Y0wxhgk9D6+LV\nqvkdGdhOCcQTVp3FcFQl9SNXtQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "cosknow-articles@cosknow.iam.gserviceaccount.com",
+  "client_id": "117396186941624884244",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cosknow-articles%40cosknow.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
